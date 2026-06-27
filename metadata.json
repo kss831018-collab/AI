@@ -1,0 +1,6 @@
+{
+  "name": "국민취업지원제도 직업선택 탐색기",
+  "description": "국민취업지원제도 참여자를 위한 다각적 직업 분석, 희망직종 추천 및 종합 상담 리포트 생성 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
